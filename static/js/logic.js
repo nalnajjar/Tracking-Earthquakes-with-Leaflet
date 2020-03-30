@@ -1,5 +1,5 @@
 // Store our API endpoint inside queryUrl
-// All M4.5+ Earthquakes in past 7 days
+// All M1.0+ Earthquakes in past 7 days
 var queryUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_week.geojson";
 
 // Perform a GET request to the query URL
