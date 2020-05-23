@@ -1,4 +1,4 @@
-# Leaflet Homework - Visualizing Data with Leaflet
+# Tracking Earthquakes with Leaflet
 
 ## Background
 
